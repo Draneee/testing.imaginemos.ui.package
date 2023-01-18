@@ -1,3 +1,2 @@
-import TestComponent from "./TestComponent";
-
-export { TestComponent };
+import ModularCard from "./ModularCard/ModularCard";
+export {  ModularCard };
